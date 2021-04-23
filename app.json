@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "plantmanager",
+    "name": "PlantManager",
     "slug": "plantmanager",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Manage your plants",
+    "githubUrl": "https://github.com/birobirobiro/nlw-05-plantmanager"
   }
 }
